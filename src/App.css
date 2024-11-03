@@ -4,6 +4,11 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+h1 {
+  text-align: center;
+  
+}
+
 a {
   color: rgb(147, 185, 195);
   font-weight: bold;

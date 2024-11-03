@@ -40,6 +40,7 @@ const App = () => {
   return (
     <div className="weather-app">
       <header>
+        <h1>Weather Forecast</h1>
         <form className="search-form" onSubmit={handleSearch}>
           <input
             type="search"
